@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016950343606",
+    "project_id": "bmi-task-f72b8",
+    "storage_bucket": "bmi-task-f72b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016950343606:android:b0e619f6dea1f906da2317",
+        "android_client_info": {
+          "package_name": "com.example.bmi_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-bw_UGNZRW_8mI4IFTbMxPuSJVclSAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
