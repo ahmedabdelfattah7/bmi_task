@@ -12,7 +12,20 @@
           "package_name": "com.example.bmi_task"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1016950343606-smqqsp2ea69qcc19ggc7gqe43cimmf53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bmi_task",
+            "certificate_hash": "e5afe883fc969d2c15b8cd7be9804490b1d6ea48"
+          }
+        },
+        {
+          "client_id": "1016950343606-u87qjnq3h4e0oig0ukg332kmfnudv6tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBY-bw_UGNZRW_8mI4IFTbMxPuSJVclSAg"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016950343606-u87qjnq3h4e0oig0ukg332kmfnudv6tp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016950343606-5t8f7j65pqsqgulftue1acc9ju0nthpf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bmiTask"
+              }
+            }
+          ]
         }
       }
     }

@@ -37,6 +37,19 @@ dependencies:
   cupertino_icons: ^1.0.2
   firebase_core: ^2.27.0
   get: ^4.6.6
+  flutter_svg: ^2.0.10+1
+  flutter_screenutil: ^5.9.0
+  shared_preferences: ^2.2.3
+  syncfusion_flutter_gauges: ^25.1.41
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.15.8
+  google_sign_in: ^6.2.1
+  gauge_indicator: ^0.4.3
+  persistent_bottom_nav_bar: ^5.0.2
+  font_awesome_flutter: ^10.7.0
+  firebase_pagination: ^3.1.0
+  flutterflow_paginate_firestore: ^1.0.3+1
+
 
 dev_dependencies:
   flutter_test:
